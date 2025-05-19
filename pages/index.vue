@@ -25,13 +25,13 @@
         name: 'Margherita',
         description: 'Tomate, mozzarella, basilic frais',
         price: 10,
-        image: 'https://images.unsplash.com/photo-1601924579778-d74302c2732b?w=400&q=80'
+        image: 'https://static.vecteezy.com/system/resources/previews/008/525/465/non_2x/pizza-margherita-transparent-png.png'
       },
       {
         name: 'Reine',
         description: 'Tomate, jambon, champignons, mozzarella',
         price: 12,
-        image: 'https://images.unsplash.com/photo-1613145991414-20c6ee4fa2c1?w=400&q=80'
+        image: 'https://static.vecteezy.com/system/resources/previews/021/217/656/non_2x/pizza-margherita-food-png.png'
       },
       {
         name: 'Quattro Formaggi',
